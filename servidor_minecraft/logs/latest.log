@@ -91,3 +91,17 @@
 [22Apr2025 02:35:08.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosetalex20 lost connection: Disconnected
 [22Apr2025 02:35:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 left the game
 [22Apr2025 02:35:08.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jhosetalex20
+[22Apr2025 02:39:13.147] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_ip:main,securitycraft:securitycraft] rejected their client side version number
+[22Apr2025 02:39:13.148] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Apr2025 02:39:13.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2db4ff20[id=<null>,name=Xxcamikm025xX,properties={},legacy=false] (/127.116.145.60:59475) lost connection: Connection closed - mismatched mod channel list
+[22Apr2025 02:39:35.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jhosetalex20[/127.190.55.181:43697] logged in with entity id 731 at (26.30000001192093, 80.0, 115.62858038608205)
+[22Apr2025 02:39:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 joined the game
+[22Apr2025 02:39:36.212] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jhosetalex20 (18)
+[22Apr2025 02:39:36.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jhosetalex20
+[22Apr2025 02:41:38.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xxcamikm025xX[/127.116.145.60:49433] logged in with entity id 1024 at (11.5, 63.0, 102.5)
+[22Apr2025 02:41:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX joined the game
+[22Apr2025 02:41:42.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xxcamikm025xX (18)
+[22Apr2025 02:41:42.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[22Apr2025 02:48:00.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosetalex20 lost connection: Disconnected
+[22Apr2025 02:48:00.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 left the game
+[22Apr2025 02:48:00.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jhosetalex20

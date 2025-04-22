@@ -226,7 +226,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-04-22 02:30:36 +0000",
-      "mutton": "2025-04-22 01:15:01 +0000"
+      "mutton": "2025-04-22 01:15:01 +0000",
+      "rotten_flesh": "2025-04-22 02:43:35 +0000"
     },
     "done": false
   },
