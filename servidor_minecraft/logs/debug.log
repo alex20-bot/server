@@ -3558,3 +3558,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Apr2025 04:19:22.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> se escucha como si estuviera pasandole aire :'v
 [22Apr2025 04:19:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosetalex20> ya mñn me compro un audifono
 [22Apr2025 04:19:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> xd
+[22Apr2025 04:21:39.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 04:21:39.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 04:24:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosetalex20> jaja si te escucho
+[22Apr2025 04:24:30.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosetalex20> ahora te escucho muuy bao
+[22Apr2025 04:24:53.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 has made the advancement [Sweet Dreams]
+[22Apr2025 04:25:43.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX has made the advancement [Sweet Dreams]
+[22Apr2025 04:26:39.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 04:26:39.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 04:27:36.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 has made the advancement [Acquire Hardware]
