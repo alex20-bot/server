@@ -3544,3 +3544,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Apr2025 04:10:47.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=true, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
 [22Apr2025 04:10:48.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=false, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
 [22Apr2025 04:10:53.618] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=true, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
+[22Apr2025 04:11:08.489] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=false, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
+[22Apr2025 04:11:39.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 04:11:39.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 04:11:42.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=true, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
+[22Apr2025 04:11:43.879] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=false, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
+[22Apr2025 04:12:48.748] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=true, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
+[22Apr2025 04:13:47.311] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of jhosetalex20: {disabled=false, disconnected=false, uuid=c8deb52c-105d-3d61-aa86-3f1894dce2f5, name=jhosetalex20, group=null}
+[22Apr2025 04:16:39.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 04:16:39.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 04:18:46.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> jhoset, se te escucha bn bajito, no c si es tu micro o es la lluvia pero se te escucha entrecortado
+[22Apr2025 04:19:13.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosetalex20> jaja
+[22Apr2025 04:19:22.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> se escucha como si estuviera pasandole aire :'v
+[22Apr2025 04:19:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosetalex20> ya mñn me compro un audifono
+[22Apr2025 04:19:38.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> xd
