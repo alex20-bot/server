@@ -79,3 +79,6 @@
 [22Apr2025 01:16:55.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 joined the game
 [22Apr2025 01:16:55.833] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jhosetalex20 (18)
 [22Apr2025 01:16:55.834] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jhosetalex20
+[22Apr2025 01:23:37.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhosetalex20 lost connection: Disconnected
+[22Apr2025 01:23:37.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 left the game
+[22Apr2025 01:23:37.547] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jhosetalex20
