@@ -295,3 +295,65 @@
 [18May2025 04:27:14.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xaram (11e70d0d-928e-38e2-9ff4-f716f815b6ec) successfully connected to voice chat
 [18May2025 04:29:01.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 has made the advancement [Cover Me with Diamonds]
 [18May2025 04:30:49.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xaram has made the advancement [Diamonds!]
+[18May2025 04:34:02.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xxcamikm025xX lost connection: Timed out
+[18May2025 04:34:02.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX left the game
+[18May2025 04:34:02.503] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xxcamikm025xX
+[18May2025 04:34:55.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xxcamikm025xX[/127.225.73.144:42555] logged in with entity id 10331 at (11.344802855689004, 68.0, 159.22064351686572)
+[18May2025 04:34:55.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX joined the game
+[18May2025 04:35:00.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xxcamikm025xX (18)
+[18May2025 04:35:00.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:35:03.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:35:04.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:35:04.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:35:19.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:35:19.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:35:19.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:35:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhosetalex20 has made the advancement [Enchanter]
+[18May2025 04:35:22.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:35:24.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:35:24.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:35:34.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:35:34.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:35:34.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:35:35.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:35:36.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:35:36.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:36:10.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:36:10.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:36:10.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:36:11.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:36:12.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:36:12.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:37:20.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:37:20.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:37:20.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:37:20.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:37:21.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:37:21.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:38:28.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:38:28.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:38:28.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:38:28.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:38:29.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:38:29.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:39:09.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:39:09.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:39:09.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:39:09.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:39:10.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:39:10.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:39:52.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:39:52.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:39:52.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:39:52.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:39:53.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:39:53.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:40:11.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:40:11.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:40:11.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:40:12.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:40:13.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:40:13.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:42:56.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xxcamikm025xX lost connection: Timed out
+[18May2025 04:42:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX left the game
+[18May2025 04:42:56.744] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xxcamikm025xX
