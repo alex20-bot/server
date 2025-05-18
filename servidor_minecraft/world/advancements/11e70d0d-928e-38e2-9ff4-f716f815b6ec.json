@@ -369,6 +369,7 @@
       "beef": "2025-05-18 04:55:31 +0000",
       "porkchop": "2025-05-18 01:42:22 +0000",
       "mutton": "2025-05-18 01:00:55 +0000",
+      "bread": "2025-05-18 05:19:04 +0000",
       "rotten_flesh": "2025-05-18 02:16:22 +0000"
     },
     "done": false
@@ -1430,6 +1431,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-18 05:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-18 05:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 05:03:44 +0000"
@@ -1484,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-18 05:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 04:55:11 +0000"
@@ -1511,6 +1530,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-18 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-18 05:14:28 +0000"
     },
     "done": true
   },
@@ -1571,6 +1596,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-18 04:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-18 05:19:33 +0000"
     },
     "done": true
   },

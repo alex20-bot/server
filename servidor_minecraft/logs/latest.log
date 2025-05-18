@@ -431,3 +431,7 @@
 [18May2025 05:12:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xaram has made the advancement [A Seedy Place]
 [18May2025 05:12:42.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=65, z=-289} BlockPos{x=941, y=63, z=-290}
 [18May2025 05:12:42.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=65, z=-289} BlockPos{x=941, y=63, z=-290}
+[18May2025 05:19:33.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xaram has made the advancement [What a Deal!]
+[18May2025 05:24:15.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xaram lost connection: Disconnected
+[18May2025 05:24:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xaram left the game
+[18May2025 05:24:15.542] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xaram
