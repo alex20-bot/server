@@ -170,3 +170,55 @@
 [18May2025 04:11:28.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
 [18May2025 04:11:29.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
 [18May2025 04:11:29.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:13:03.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xxcamikm025xX lost connection: Timed out
+[18May2025 04:13:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX left the game
+[18May2025 04:13:03.994] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xxcamikm025xX
+[18May2025 04:13:36.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xxcamikm025xX[/127.225.73.144:60833] logged in with entity id 3845 at (55.36107453913968, 67.0, 80.1991378946337)
+[18May2025 04:13:36.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX joined the game
+[18May2025 04:13:38.090] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xxcamikm025xX (18)
+[18May2025 04:13:38.091] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:13:50.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:13:53.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 04:13:53.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 04:14:08.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> ODIO MI INTERNET
+[18May2025 04:14:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhosetalex20> jaja
+[18May2025 04:14:53.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 04:14:53.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 04:14:53.065] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:14:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xxcamikm025xX> ;-;
+[18May2025 04:15:06.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xxcamikm025xX lost connection: Timed out
+[18May2025 04:15:06.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX left the game
+[18May2025 04:15:06.540] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xxcamikm025xX
+[18May2025 04:20:51.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xaram[/127.12.173.88:36967] logged in with entity id 4976 at (992.3000000119209, -23.0, -589.6878201636144)
+[18May2025 04:20:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xaram joined the game
+[18May2025 04:20:52.145] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xaram (18)
+[18May2025 04:20:52.146] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xaram
+[18May2025 04:20:53.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:20:55.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:20:55.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xaram (11e70d0d-928e-38e2-9ff4-f716f815b6ec) successfully connected to voice chat
+[18May2025 04:21:39.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 11e70d0d-928e-38e2-9ff4-f716f815b6ec timed out
+[18May2025 04:21:39.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xaram
+[18May2025 04:21:39.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xaram
+[18May2025 04:21:39.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:21:41.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xaram> EN QUE CAPA ay diamantes?
+[18May2025 04:21:41.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:21:41.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xaram (11e70d0d-928e-38e2-9ff4-f716f815b6ec) successfully connected to voice chat
+[18May2025 04:21:48.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xxcamikm025xX[/127.225.73.144:41071] logged in with entity id 5483 at (39.3908718653325, 75.0, 104.32065931658474)
+[18May2025 04:21:48.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX joined the game
+[18May2025 04:21:48.868] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xxcamikm025xX (18)
+[18May2025 04:21:48.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 04:22:18.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xxcamikm025xX lost connection: Timed out
+[18May2025 04:22:18.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX left the game
+[18May2025 04:22:18.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xxcamikm025xX
+[18May2025 04:22:29.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 11e70d0d-928e-38e2-9ff4-f716f815b6ec timed out
+[18May2025 04:22:29.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xaram
+[18May2025 04:22:29.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xaram
+[18May2025 04:22:29.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:22:31.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:22:31.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xaram (11e70d0d-928e-38e2-9ff4-f716f815b6ec) successfully connected to voice chat
+[18May2025 04:22:45.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 11e70d0d-928e-38e2-9ff4-f716f815b6ec timed out
+[18May2025 04:22:45.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xaram
+[18May2025 04:22:45.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xaram
+[18May2025 04:22:45.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:22:47.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 11e70d0d-928e-38e2-9ff4-f716f815b6ec
+[18May2025 04:22:47.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xaram (11e70d0d-928e-38e2-9ff4-f716f815b6ec) successfully connected to voice chat
