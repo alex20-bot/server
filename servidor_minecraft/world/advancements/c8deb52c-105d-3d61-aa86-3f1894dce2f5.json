@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-05-18 05:04:11 +0000",
       "minecraft:beach": "2025-04-21 21:47:54 +0000",
+      "minecraft:river": "2025-05-18 05:03:10 +0000",
       "minecraft:swamp": "2025-04-21 21:14:31 +0000",
       "minecraft:forest": "2025-04-21 21:14:40 +0000"
     },
@@ -228,9 +230,11 @@
       "cooked_mutton": "2025-04-22 04:32:21 +0000",
       "cooked_beef": "2025-04-22 03:54:59 +0000",
       "beef": "2025-04-22 02:30:36 +0000",
+      "porkchop": "2025-05-18 05:03:32 +0000",
       "mutton": "2025-04-22 01:15:01 +0000",
       "rotten_flesh": "2025-04-22 02:43:35 +0000",
-      "golden_carrot": "2025-05-18 01:28:17 +0000"
+      "golden_carrot": "2025-05-18 01:28:17 +0000",
+      "carrot": "2025-05-18 05:01:36 +0000"
     },
     "done": false
   },
@@ -1493,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-18 05:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-18 04:34:30 +0000"
@@ -1526,6 +1536,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-18 04:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-18 04:57:50 +0000"
     },
     "done": true
   },
