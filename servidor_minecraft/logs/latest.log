@@ -84,3 +84,17 @@
 [18May2025 03:43:51.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
 [18May2025 03:43:52.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
 [18May2025 03:43:52.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
+[18May2025 03:53:47.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 78b802f6-3973-339c-bac7-4b5781f16b2e timed out
+[18May2025 03:53:47.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Xxcamikm025xX
+[18May2025 03:53:47.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 03:53:49.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xxcamikm025xX lost connection: Disconnected
+[18May2025 03:53:49.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX left the game
+[18May2025 03:53:49.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xxcamikm025xX
+[18May2025 03:53:49.589] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 03:56:24.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xxcamikm025xX[/127.225.73.144:57029] logged in with entity id 1342 at (35.26738694972591, 70.0, 111.63845412443908)
+[18May2025 03:56:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xxcamikm025xX joined the game
+[18May2025 03:56:26.278] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xxcamikm025xX (18)
+[18May2025 03:56:26.279] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xxcamikm025xX
+[18May2025 03:56:45.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 03:56:46.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 78b802f6-3973-339c-bac7-4b5781f16b2e
+[18May2025 03:56:46.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Xxcamikm025xX (78b802f6-3973-339c-bac7-4b5781f16b2e) successfully connected to voice chat
