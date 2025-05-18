@@ -9019,3 +9019,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18May2025 05:24:15.542] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xaram
 [18May2025 05:24:15.542] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xaram
 [18May2025 05:24:15.613] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 11e70d0d-928e-38e2-9ff4-f716f815b6ec does not have a secret
+[18May2025 05:28:23.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 05:28:23.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 05:33:23.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 05:33:23.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
